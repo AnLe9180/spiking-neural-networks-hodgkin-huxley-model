@@ -1,6 +1,4 @@
-# spiking-neural-networks-hodgkin-huxley-model<<<<<<< HEAD
-# spiking-neural-networks-hodgkin-huxley-model
-=======
+
 # spiking-neural-networks-hodgkin-huxley-model
 
 https://www.neuron.yale.edu/neuron/
